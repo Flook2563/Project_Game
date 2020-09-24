@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1600636862,
+	"version": 1600928389,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -115,6 +115,7 @@
 		"images/downsound-sheet0.png",
 		"images/sub1-sheet0.png",
 		"images/sub3-sheet0.png",
+		"images/close_minigame2-sheet0.png",
 		"media/jump1.ogg",
 		"media/button.ogg",
 		"media/shoot.ogg",
