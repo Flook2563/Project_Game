@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1601787449,
+	"version": 1603329086,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -110,6 +110,8 @@
 		"images/ov_think-sheet0.png",
 		"images/ov_print-sheet0.png",
 		"images/status_re-sheet0.png",
+		"images/status_w-sheet0.png",
+		"images/status_soung-sheet0.png",
 		"images/sound-sheet0.png",
 		"images/upsound-sheet0.png",
 		"images/downsound-sheet0.png",
@@ -143,6 +145,7 @@
 		"media/songa-z.ogg",
 		"media/menu_click.ogg",
 		"media/why_did_you_do_it.ogg",
+		"media/slowogg.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
